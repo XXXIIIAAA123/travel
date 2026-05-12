@@ -1,0 +1,11 @@
+# 忽略 Visual Studio 缓存文件
+.vs/
+x64/
+Debug/
+Release/
+
+# 忽略 VS 用户配置文件
+*.suo
+*.user
+*.sdf
+*.opensdf
